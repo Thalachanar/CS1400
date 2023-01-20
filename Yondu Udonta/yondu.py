@@ -4,8 +4,9 @@ Author: Dawson Allen
 Due Date: 01/20/2023
 Course: CS1400-001
 
-Put your description here, lessons learned here, and any other information someone using your
-program would need to know to make it run.
+This program is intended to read an input from the user 
+to understand the total number of Reavers and units, 
+and to then calculate individual shares.
 '''
 
 def main():
